@@ -65,3 +65,19 @@ nav a{
     margin: auto;
     padding: 25px;
 }
+
+.INSIGHTS:hover{
+    color: rgb(156, 0, 0);
+}
+
+.HELP:hover{
+    color: rgb(156, 0, 0);
+}
+
+.ABOUT:hover{
+    color: rgb(156, 0, 0);
+}
+
+.DETAILS:hover{
+    color:red;
+}
