@@ -1,0 +1,67 @@
+html{
+    height: 100%;
+}
+
+body {
+    background-image: url(images/headset.jpg.jpg);
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    height: 118px;
+}
+
+nav {
+    background-color:  rgba(58, 58, 58, 0.445);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+main {
+    color: white;
+    height: 400px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+footer {
+    image-resolution:inherit;
+    background-image: url(images/footerimage.jpg.jpg);
+    background-color: rgba(50, 51, 61, 0.295);
+    height: 200px;
+}
+
+.highlight-text1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    
+}
+
+nav a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 19px;
+    margin: auto;
+    padding: 25px;
+}
